@@ -15,7 +15,6 @@ Thank you for your interest in contributing to EnggVault. We value your time and
 - [Code Review Expectations](#code-review-expectations)
 - [Community Etiquette](#community-etiquette)
 
----
 
 ## Development Workflow
 

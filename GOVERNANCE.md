@@ -45,6 +45,5 @@ If you are interested in a maintainer role, we recommend staying active, reviewi
 2. **Changelogs**: We maintain automated, structured changelogs derived from our Conventional Commits.
 3. **Releases**: Releases are managed through automated CI/CD pipelines executed upon tagging a commit or merging to production branches.
 
----
 
 *This governance model serves as a living document and will be revised as the organization scales and evolves.*

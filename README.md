@@ -29,7 +29,6 @@ If you need to update a policy, template, or the organization profile:
 
 Once merged, the changes will automatically propagate and apply as defaults across the EnggVault organization.
 
----
 <div align="center">
   <strong>EnggVault</strong> &mdash; Building high-quality tools for developers worldwide.
 </div>
