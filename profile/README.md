@@ -11,7 +11,6 @@
   </p>
 </div>
 
----
 
 ## Our Mission
 
@@ -23,7 +22,6 @@ We believe that reliable tools and resources should be accessible to everyone, e
 
 To serve as a central hub for engineering excellence, fostering a community where knowledge is shared openly and collaborative innovation can thrive.
 
----
 
 ## What We Build
 
@@ -39,7 +37,6 @@ We focus on a diverse range of projects to support the developer ecosystem:
 
 We are committed to the open-source ethos. We build in public, welcome contributions from developers of all backgrounds, and strive to maintain an inclusive, supportive environment. 
 
----
 
 ## Technologies We Use
 
@@ -56,7 +53,7 @@ We utilize a variety of modern web and systems technologies in our projects:
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
----
+
 
 ## Community
 
@@ -74,7 +71,6 @@ We welcome contributions of all kinds, including code, documentation, design, an
 2. Read our [Code of Conduct](https://github.com/Enggvault/.github/blob/main/CODE_OF_CONDUCT.md) to understand our community standards.
 3. Browse issues labeled `good first issue` across our repositories.
 
----
 
 ## Repository Categories
 
@@ -85,13 +81,11 @@ Explore our repositories by category:
 - **[Education](https://github.com/orgs/Enggvault/repositories?q=topic:education)**: Learning materials and courses.
 - **[Templates](https://github.com/orgs/Enggvault/repositories?q=topic:template)**: Starter projects for various stacks.
 
----
 
 ## Contact Us
 
 For business inquiries, enterprise support, or security reports, please reach out to us via email at **enggvault@gmail.com**.
 
----
 
 ## License
 
