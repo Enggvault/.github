@@ -1,50 +1,50 @@
 # EnggVault Governance
 
-This document outlines the governance model for the EnggVault organization and its open-source projects. Our goal is to ensure a transparent, fair, and sustainable environment for our contributors and users.
+This document outlines the governance model for the EnggVault organization and its open-source projects. Our objective is to maintain a transparent, equitable, and sustainable environment for our contributors and users.
 
-## 🏢 Organization Structure
+## Organization Structure
 
 EnggVault operates as a community-driven open-source organization with the following roles:
 
-### 1. Users & Community Members
-Anyone who uses our projects, participates in discussions, or joins our community channels.
+### 1. Users and Community Members
+Individuals who utilize our projects, participate in technical discussions, or engage in our community channels.
 
 ### 2. Contributors
-Anyone who contributes to the project, whether through code, documentation, design, bug reports, or answering questions in the community.
+Individuals who contribute directly to the project through code submissions, documentation enhancements, design input, or community support.
 
 ### 3. Maintainers
-Contributors who have shown sustained dedication to a specific project. Maintainers have triage or write access to specific repositories. Their responsibilities include:
-- Reviewing and merging pull requests.
-- Triaging issues and labeling them correctly.
-- Guiding contributors and enforcing the Code of Conduct.
+Contributors who have demonstrated sustained dedication to a specific project. Maintainers hold triage or write access to specific repositories. Their responsibilities include:
+- Reviewing and integrating pull requests.
+- Triaging issues and applying accurate labels.
+- Guiding contributors and enforcing the organizational Code of Conduct.
 
 ### 4. Core Team
-The Core Team oversees the broader organization, architectural decisions, and the overall roadmap. They have administrative access to the GitHub organization.
+The Core Team is responsible for the broader organization, high-level architectural decisions, and the strategic roadmap. They hold administrative access to the GitHub organization.
 
-## ⚖️ Decision-Making Process
+## Decision-Making Process
 
-We strive for consensus-based decision-making. 
+We prioritize consensus-based decision-making.
 
-1. **RFCs (Request for Comments)**: Major changes (architectural shifts, significant new features) should begin with a discussion or an RFC issue to gather community feedback before implementation begins.
-2. **Pull Requests**: Code changes are proposed via Pull Requests. They require review and approval from at least one Maintainer before merging.
-3. **Core Team Authority**: While we seek consensus, the Core Team holds the final say on strategic direction, organizational policies, and conflict resolution.
+1. **Request for Comments (RFCs)**: Significant changes, including architectural shifts or major new features, must begin with an RFC issue. This allows for community feedback prior to implementation.
+2. **Pull Requests**: Code modifications are proposed via pull requests. They require rigorous review and formal approval from at least one Maintainer prior to merging.
+3. **Core Team Authority**: While consensus is preferred, the Core Team retains final authority regarding strategic direction, organizational policies, and conflict resolution.
 
-## 🌟 Becoming a Maintainer
+## Becoming a Maintainer
 
-We are always looking for dedicated individuals to join our maintainer team. Maintainership is typically granted to individuals who have:
+We continuously evaluate dedicated individuals for maintainer roles. Maintainership is typically extended to individuals who have:
 
-1. A track record of high-quality contributions (code, docs, or community support).
-2. Demonstrated an understanding of the project's architecture and goals.
-3. Shown consistent respectful behavior aligning with our Code of Conduct.
+1. Established a track record of high-quality technical or administrative contributions.
+2. Demonstrated a comprehensive understanding of the project's architecture and long-term objectives.
+3. Maintained consistent, professional behavior in alignment with our Code of Conduct.
 
-If you are interested in becoming a maintainer, the best path is to stay active, review PRs, help others, and eventually, the Core Team will reach out, or you can express your interest privately to a Core Team member.
+If you are interested in a maintainer role, we recommend staying active, reviewing pull requests, and assisting peers. The Core Team periodically reviews active contributors for promotion.
 
-## 🚀 Release Process
+## Release Process
 
-1. **Semantic Versioning**: We follow [Semantic Versioning](https://semver.org/) (SemVer) for our releases (MAJOR.MINOR.PATCH).
-2. **Changelogs**: We maintain automated changelogs based on our Conventional Commits format.
-3. **Releases**: Releases are typically managed via automated CI/CD pipelines (e.g., GitHub Actions) upon tagging a commit or merging to specific branches.
+1. **Semantic Versioning**: We adhere to [Semantic Versioning](https://semver.org/) (SemVer) for our release cycles (MAJOR.MINOR.PATCH).
+2. **Changelogs**: We maintain automated, structured changelogs derived from our Conventional Commits.
+3. **Releases**: Releases are managed through automated CI/CD pipelines executed upon tagging a commit or merging to production branches.
 
 ---
 
-*This governance model is a living document and may be updated as the organization grows and evolves.*
+*This governance model serves as a living document and will be revised as the organization scales and evolves.*

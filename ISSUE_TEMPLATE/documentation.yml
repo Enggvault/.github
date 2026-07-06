@@ -1,5 +1,5 @@
-name: 📖 Documentation Improvement
-description: Suggest an improvement or report a typo in the documentation
+name: Documentation Improvement
+description: Propose a correction or enhancement to the documentation
 title: "[Docs]: "
 labels: ["documentation", "triage"]
 assignees:
@@ -8,28 +8,28 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping us improve our documentation!
+        Thank you for helping us maintain accurate documentation.
   - type: input
     id: url
     attributes:
-      label: URL of the documentation page
-      description: Where is the issue located?
+      label: Documentation URL
+      description: Provide the direct link to the page requiring modification.
       placeholder: https://...
     validations:
       required: true
   - type: textarea
     id: issue-description
     attributes:
-      label: Describe the issue
-      description: What needs to be fixed or improved? (e.g., Typo, unclear instructions, missing information)
-      placeholder: In the section about X, it says Y, but it should say Z.
+      label: Issue Description
+      description: Detail the inaccuracy, typo, or unclear section.
+      placeholder: Describe the issue in the current text...
     validations:
       required: true
   - type: textarea
     id: proposed-change
     attributes:
-      label: Proposed change (optional)
-      description: If you know what the fix should be, please suggest it here.
-      placeholder: Change "old text" to "new text".
+      label: Proposed Revision (Optional)
+      description: Suggest the specific textual correction.
+      placeholder: Provide the revised text...
     validations:
       required: false

@@ -1,5 +1,5 @@
-name: ❓ Question / Help
-description: Ask a question about how to use this project
+name: Question
+description: Submit an inquiry regarding project implementation
 title: "[Question]: "
 labels: ["question"]
 assignees:
@@ -8,20 +8,20 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please note: General questions are often better suited for our [GitHub Discussions](https://github.com/Enggvault/project-name/discussions) or our [Discord server](https://discord.gg/g467F3xBeQ). 
-        However, if you feel an issue is appropriate, please proceed!
+        Note: General inquiries are typically resolved faster within [GitHub Discussions](https://github.com/Enggvault/project-name/discussions) or on our [Discord Server](https://discord.gg/g467F3xBeQ). 
+        If you require a formal issue, please proceed below.
   - type: textarea
     id: question
     attributes:
-      label: Your Question
-      description: What would you like to know?
-      placeholder: How do I configure X to work with Y?
+      label: Inquiry
+      description: State your question clearly.
+      placeholder: Detail the technical question or clarification needed...
     validations:
       required: true
   - type: textarea
     id: context
     attributes:
-      label: Context
-      description: What are you trying to accomplish? Provide relevant code snippets or configuration if helpful.
+      label: Context and Implementation
+      description: Detail your objective and provide relevant code snippets or configuration files to assist with troubleshooting.
     validations:
       required: true

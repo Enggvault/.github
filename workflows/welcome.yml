@@ -17,19 +17,19 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: |
-            Welcome to the EnggVault organization! 🎉
+            Welcome to the EnggVault organization.
             
-            Thank you for opening your first issue. We appreciate you taking the time to report this or suggest an idea.
+            Thank you for opening your first issue. We appreciate your effort in reporting this matter or suggesting an enhancement.
             
-            A maintainer will review this shortly. In the meantime, please ensure you've provided all necessary details according to our issue templates.
+            A maintainer will review the submission shortly. Please ensure all necessary technical details have been provided per our issue templates.
           pr-message: |
-            Welcome to the EnggVault organization! 🎉
+            Welcome to the EnggVault organization.
             
-            Thank you for creating your first pull request! We're excited to have you contribute.
+            Thank you for submitting your first pull request. We appreciate your contribution to the project.
             
-            Before we merge, please ensure that:
-            - You have followed our contributing guidelines.
-            - All tests pass (if applicable).
-            - You have updated relevant documentation.
+            Prior to review, please verify that:
+            - You have adhered to our contributing guidelines.
+            - All test suites execute successfully.
+            - Relevant documentation has been updated.
             
-            A maintainer will review your code soon. Thanks again!
+            A maintainer will conduct a code review shortly. Thank you.

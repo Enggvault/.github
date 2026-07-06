@@ -1,53 +1,53 @@
 ## Description
 
 <!-- 
-Please include a summary of the change and which issue is fixed. 
-Please also include relevant motivation and context. 
-List any dependencies that are required for this change.
+Please include a concise summary of the change and indicate which issue is resolved. 
+Include relevant technical motivation and context. 
+Document any new dependencies required for this modification.
 -->
 
 ## Related Issue
 
 <!-- 
-Link to the issue here. 
-Use closing keywords like "Closes #123" or "Fixes #123" so the issue is automatically closed when the PR is merged.
+Link to the relevant issue here. 
+Use closing keywords (e.g., "Closes #123" or "Fixes #123") to automate issue closure upon merging.
 -->
 
 Closes #
 
 ## Type of Change
 
-<!-- Please check the one that applies to this PR using "x". -->
+<!-- Please select the option that applies to this pull request. -->
 
-- [ ] 🐛 Bug fix (non-breaking change which fixes an issue)
-- [ ] ✨ New feature (non-breaking change which adds functionality)
-- [ ] 💥 Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] 📝 Documentation update
-- [ ] 🎨 Style/UI changes
-- [ ] ♻️ Code refactoring
-- [ ] 🔧 Chore (build tasks, package manager updates, etc.)
+- [ ] Bug fix (non-breaking change which resolves an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that alters existing functionality)
+- [ ] Documentation update
+- [ ] Style/UI modifications
+- [ ] Code refactoring
+- [ ] Chore (build tasks, package manager updates, etc.)
 
-## Checklist:
+## Checklist
 
-<!-- Please check all that apply. -->
+<!-- Please verify all applicable items. -->
 
-- [ ] My code follows the style guidelines of this project.
-- [ ] I have performed a self-review of my own code.
-- [ ] I have commented my code, particularly in hard-to-understand areas.
-- [ ] I have made corresponding changes to the documentation.
-- [ ] My changes generate no new warnings or errors.
-- [ ] I have added tests that prove my fix is effective or that my feature works.
-- [ ] New and existing unit tests pass locally with my changes.
-- [ ] Any dependent changes have been merged and published in downstream modules.
+- [ ] My code adheres to the style guidelines of this project.
+- [ ] I have performed a self-review of the code.
+- [ ] I have provided comments in areas involving complex logic.
+- [ ] I have updated the documentation accordingly.
+- [ ] My changes do not generate new warnings or errors.
+- [ ] I have added tests to validate the fix or feature.
+- [ ] All new and existing unit tests pass locally.
+- [ ] Any dependent changes have been merged and published.
 
-## Screenshots (if applicable):
+## Visual Changes (if applicable)
 
-<!-- If your changes affect the UI, please provide before/after screenshots to help reviewers. -->
+<!-- If changes affect the user interface, please provide before/after screenshots for review context. -->
 
 | Before | After |
 | ------ | ----- |
 |        |       |
 
-## Additional Notes:
+## Additional Context
 
-<!-- Add any other context or notes about the pull request here. -->
+<!-- Provide any supplementary information or notes regarding this pull request here. -->

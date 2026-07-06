@@ -1,5 +1,5 @@
-name: ✨ Feature Request
-description: Suggest an idea for this project
+name: Feature Request
+description: Propose an enhancement for this project
 title: "[Feature]: "
 labels: ["enhancement", "triage"]
 assignees:
@@ -8,37 +8,37 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest a new feature! 
-        Please provide as much detail as possible to help us understand your idea.
+        Thank you for submitting a feature request. 
+        Please provide detailed context to assist us in evaluating your proposal.
   - type: textarea
     id: problem
     attributes:
-      label: Is your feature request related to a problem? Please describe.
-      description: A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-      placeholder: I'm always frustrated when...
+      label: Problem Statement
+      description: Is your request related to a specific problem? Provide a clear and concise description.
+      placeholder: Describe the current limitation or problem...
     validations:
       required: true
   - type: textarea
     id: solution
     attributes:
-      label: Describe the solution you'd like
-      description: A clear and concise description of what you want to happen.
-      placeholder: I would like a feature that...
+      label: Proposed Solution
+      description: Provide a clear description of your intended solution or functionality.
+      placeholder: Describe the desired feature implementation...
     validations:
       required: true
   - type: textarea
     id: alternatives
     attributes:
-      label: Describe alternatives you've considered
-      description: A clear and concise description of any alternative solutions or features you've considered.
-      placeholder: An alternative would be...
+      label: Alternative Considerations
+      description: Describe any alternative solutions or approaches you have evaluated.
+      placeholder: Describe alternative methods...
     validations:
       required: false
   - type: textarea
     id: additional-context
     attributes:
-      label: Additional context
-      description: Add any other context or screenshots about the feature request here.
-      placeholder: Additional details...
+      label: Additional Context
+      description: Include any other relevant information, mockups, or technical constraints.
+      placeholder: Additional technical details...
     validations:
       required: false

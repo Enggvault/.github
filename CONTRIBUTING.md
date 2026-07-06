@@ -1,34 +1,32 @@
 # Contributing to EnggVault
 
-First off, thank you for considering contributing to EnggVault! It's people like you that make open source such a great community.
+Thank you for your interest in contributing to EnggVault. We value your time and effort. We welcome contributions from everyone, whether it involves fixing bugs, adding features, improving documentation, or suggesting new ideas.
 
-We welcome contributions from everyone—whether it's fixing a bug, adding a new feature, improving documentation, or suggesting an idea.
+## Table of Contents
 
-## 📋 Table of Contents
-
-- [Development Workflow](#-development-workflow)
-- [Branch Naming](#-branch-naming)
-- [Commit Message Conventions](#-commit-message-conventions)
-- [Pull Request Process](#-pull-request-process)
-- [Coding Standards](#-coding-standards)
-- [Folder Structure](#-folder-structure)
-- [Issue Reporting](#-issue-reporting)
-- [Documentation Standards](#-documentation-standards)
-- [Code Review Expectations](#-code-review-expectations)
-- [Community Etiquette](#-community-etiquette)
+- [Development Workflow](#development-workflow)
+- [Branch Naming](#branch-naming)
+- [Commit Message Conventions](#commit-message-conventions)
+- [Pull Request Process](#pull-request-process)
+- [Coding Standards](#coding-standards)
+- [Folder Structure](#folder-structure)
+- [Issue Reporting](#issue-reporting)
+- [Documentation Standards](#documentation-standards)
+- [Code Review Expectations](#code-review-expectations)
+- [Community Etiquette](#community-etiquette)
 
 ---
 
-## 🔄 Development Workflow
+## Development Workflow
 
 1. **Fork the repository** you want to contribute to.
 2. **Clone your fork** locally: `git clone https://github.com/YOUR-USERNAME/REPO-NAME.git`
-3. **Create a new branch** for your feature or bugfix (see [Branch Naming](#-branch-naming)).
-4. **Make your changes** and commit them (see [Commit Message Conventions](#-commit-message-conventions)).
+3. **Create a new branch** for your feature or bugfix (see [Branch Naming](#branch-naming)).
+4. **Make your changes** and commit them (see [Commit Message Conventions](#commit-message-conventions)).
 5. **Push your branch** to your fork: `git push origin your-branch-name`
-6. **Open a Pull Request** against the `main` branch of the original repository.
+6. **Open a pull request** against the `main` branch of the original repository.
 
-## 🌿 Branch Naming
+## Branch Naming
 
 We use the following conventions for branch names:
 
@@ -40,9 +38,9 @@ We use the following conventions for branch names:
 
 *Example:* `feat/add-user-authentication` or `fix/header-alignment-issue`
 
-## 📝 Commit Message Conventions
+## Commit Message Conventions
 
-We follow the [Conventional Commits](https://www.conventionalcommits.org/) specification. This helps us generate changelogs automatically and maintain a readable commit history.
+We follow the [Conventional Commits](https://www.conventionalcommits.org/) specification. This practice helps us automatically generate changelogs and maintain a readable commit history.
 
 Format: `type(scope): subject`
 
@@ -58,52 +56,52 @@ Format: `type(scope): subject`
 
 *Example:* `feat(auth): implement JWT token verification`
 
-## 🚀 Pull Request Process
+## Pull Request Process
 
-1. **Use the Template**: When opening a PR, please fill out the provided `PULL_REQUEST_TEMPLATE`.
-2. **Link Issues**: If your PR fixes an open issue, link it using closing keywords (e.g., `Closes #123`).
-3. **Keep it Small**: Try to keep PRs focused on a single change. Large PRs are harder to review.
+1. **Use the Template**: When opening a pull request, please fill out the provided `PULL_REQUEST_TEMPLATE`.
+2. **Link Issues**: If your PR resolves an open issue, link it using closing keywords (e.g., `Closes #123`).
+3. **Keep it Focused**: Attempt to keep pull requests focused on a single change. Large PRs are inherently more difficult to review.
 4. **Pass Checks**: Ensure all CI/CD checks (linting, tests, builds) pass before requesting a review.
-5. **Review**: A core maintainer will review your code. Address any feedback promptly.
+5. **Review**: A core maintainer will review your code. Please address any feedback promptly.
 
-## 💻 Coding Standards
+## Coding Standards
 
 - Write clean, readable, and self-documenting code.
-- Follow the specific style guide configured for the project (e.g., Prettier, ESLint).
-- Ensure your code doesn't introduce any new linting errors or warnings.
+- Adhere to the specific style guide configured for the project (e.g., Prettier, ESLint).
+- Ensure your changes do not introduce new linting errors or warnings.
 - Write unit tests for new features or bug fixes whenever possible.
 
-## 📁 Folder Structure
+## Folder Structure
 
-While folder structures vary by project, we generally adhere to standard conventions for the specific technology stack being used (e.g., standard Next.js `app/` structure, standard Go project layout). 
+Folder structures vary by project. We generally adhere to standard conventions for the specific technology stack being used. 
 
-Please review the specific repository's `README.md` or existing code to understand its structure before contributing.
+Please review the repository's `README.md` or existing code architecture to familiarize yourself with its structure before contributing.
 
-## 🐛 Issue Reporting
+## Issue Reporting
 
-If you find a bug or have a feature request, please open an issue!
+If you find a bug or have a feature request, please open an issue.
 
 - Use the provided **Issue Templates**.
 - Be as descriptive as possible.
-- Include steps to reproduce for bugs.
+- Include step-by-step instructions to reproduce bugs.
 - Provide environment details (OS, Node version, browser, etc.) if applicable.
 
-## 📖 Documentation Standards
+## Documentation Standards
 
-Good documentation is just as important as good code.
+Accurate documentation is critical to project maintainability.
 
 - Update the `README.md` if you introduce a breaking change or a major new feature.
-- Use clear, concise language.
-- Add code comments to explain *why* something is done, not just *what* it does, especially for complex logic.
+- Use clear, professional language.
+- Add code comments to explain the reasoning behind complex logic.
 - Ensure any added Markdown is formatted correctly.
 
-## 👀 Code Review Expectations
+## Code Review Expectations
 
-- **Be Respectful**: Reviews are about improving the code, not criticizing the author.
-- **Be Clear**: Explain why a change is requested.
-- **Respond to Feedback**: If a maintainer leaves a comment, please respond or make the requested change.
-- **Ask Questions**: If you don't understand a piece of feedback, ask for clarification.
+- **Maintain Professionalism**: Reviews are intended to improve the codebase, not to critique the author.
+- **Communicate Clearly**: Explain the reasoning behind requested changes.
+- **Respond Constructively**: If a maintainer leaves a comment, please respond or implement the requested change.
+- **Ask Questions**: If you are uncertain about a piece of feedback, please ask for clarification.
 
-## 🤝 Community Etiquette
+## Community Etiquette
 
-Please read and abide by our [Code of Conduct](https://github.com/Enggvault/.github/blob/main/CODE_OF_CONDUCT.md). We are committed to providing a welcoming and inspiring community for everyone.
+Please read and abide by our [Code of Conduct](https://github.com/Enggvault/.github/blob/main/CODE_OF_CONDUCT.md). We are committed to providing a professional and welcoming community for all participants.

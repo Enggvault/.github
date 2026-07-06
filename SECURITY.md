@@ -1,51 +1,49 @@
 # Security Policy
 
-At EnggVault, we take the security of our software and the trust of our users very seriously. We appreciate the efforts of the security community to responsibly disclose vulnerabilities to us.
+At EnggVault, we prioritize the security of our software and the trust of our users. We appreciate the efforts of the security community in responsibly disclosing vulnerabilities to us.
 
 ## Supported Versions
 
-We actively maintain and provide security updates for the following major versions of our software. Please note that support policies may vary slightly by individual project; check specific repositories if in doubt.
+We actively maintain and provide security updates for the following major versions of our software. Please note that support policies may vary by individual project.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| v2.x.x  | :white_check_mark: |
-| v1.x.x  | :x:                |
-| < v1.0  | :x:                |
+| Version | Supported |
+| ------- | --------- |
+| v2.x.x  | Yes       |
+| v1.x.x  | No        |
+| < v1.0  | No        |
 
 ## Reporting a Vulnerability
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-If you believe you have found a security vulnerability in any EnggVault project, please report it to us as described below.
+If you believe you have discovered a security vulnerability in any EnggVault project, please report it to us using the following procedure:
 
-1. **Email us**: Send a detailed email to [security@enggvault.com].
-2. **Provide details**: Please include:
-   - A description of the vulnerability.
-   - Steps to reproduce the issue.
-   - Any potential impact.
+1. **Email us**: Send a detailed email to enggvault@gmail.com.
+2. **Provide details**: Please include the following information:
+   - A clear description of the vulnerability.
+   - Exact steps to reproduce the issue.
+   - An assessment of the potential impact.
    - Proof of concept (PoC) code if available.
 
 ### Response Timeline
 
-We will endeavor to respond to your report within **48 hours**. 
-
-We will keep you informed of our progress as we investigate and work on a fix.
+We endeavor to respond to your report within 48 hours. We will keep you informed of our progress as we investigate and develop a remediation plan.
 
 ## Responsible Disclosure Policy
 
-We ask that you follow these guidelines for responsible disclosure:
+We request that you adhere to the following guidelines for responsible disclosure:
 
-- **Do not disclose the vulnerability publicly** until we have had a chance to investigate, fix the issue, and release an update. We typically ask for a 90-day embargo period.
+- **Do not disclose the vulnerability publicly** until we have completed our investigation, deployed a fix, and released an update. We typically request a 90-day embargo period.
 - **Do not exploit the vulnerability** or use it to access data that does not belong to you.
-- **Provide a reasonable amount of time** for us to resolve the issue before making it public.
+- **Provide a reasonable timeframe** for us to resolve the issue before making it public.
 
 ## Security Best Practices
 
-We employ several practices to ensure the security of our projects:
+We implement rigorous practices to ensure the security of our projects:
 
-- Automated dependency scanning (Dependabot/Snyk).
-- Static code analysis (SAST) in CI/CD pipelines.
-- Mandatory code reviews for all pull requests.
-- Least-privilege access controls for organization resources.
+- Automated dependency scanning in CI/CD pipelines.
+- Static code analysis (SAST) during integration.
+- Mandatory peer code reviews for all pull requests.
+- Least-privilege access controls for organizational resources.
 
-Thank you for helping keep EnggVault and our community safe!
+We appreciate your assistance in maintaining the security of the EnggVault ecosystem.
