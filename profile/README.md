@@ -6,8 +6,8 @@
   <p>
     <a href="https://github.com/Enggvault"><img src="https://img.shields.io/github/followers/Enggvault?style=for-the-badge&logo=github&color=blue" alt="Followers" /></a>
     <a href="https://github.com/Enggvault"><img src="https://img.shields.io/github/stars/Enggvault?style=for-the-badge&logo=github&color=yellow" alt="Stars" /></a>
-    <a href="https://twitter.com/Enggvault"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
     <a href="https://discord.gg/g467F3xBeQ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://enggvault.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
   </p>
 </div>
 
@@ -62,8 +62,8 @@ We utilize a variety of modern web and systems technologies in our projects:
 
 Community is central to EnggVault. We encourage you to get involved.
 
+- **Website:** Visit us at [https://enggvault.vercel.app](https://enggvault.vercel.app).
 - **Discord:** [Join our server](https://discord.gg/g467F3xBeQ) to chat with the team and other contributors.
-- **Twitter/X:** Follow us [@Enggvault](https://twitter.com/Enggvault) for updates.
 - **Blog:** Read our latest thoughts at [blog.enggvault.com](https://blog.enggvault.com).
 
 ## How to Contribute
@@ -84,6 +84,12 @@ Explore our repositories by category:
 - **[UI & Design](https://github.com/orgs/Enggvault/repositories?q=topic:ui)**: Design systems and UI components.
 - **[Education](https://github.com/orgs/Enggvault/repositories?q=topic:education)**: Learning materials and courses.
 - **[Templates](https://github.com/orgs/Enggvault/repositories?q=topic:template)**: Starter projects for various stacks.
+
+---
+
+## Contact Us
+
+For business inquiries, enterprise support, or security reports, please reach out to us via email at **enggvault@gmail.com**.
 
 ---
 
