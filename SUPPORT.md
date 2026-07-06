@@ -39,7 +39,7 @@ For organizations requiring dedicated support, SLAs, or consulting services, ple
 
 Join our vibrant Discord community to chat with other developers, share knowledge, and get quick help.
 
-- **Join here**: [https://discord.gg/your-invite-code]
+- **Join here**: [https://discord.gg/g467F3xBeQ]
 
 ## ❓ Frequently Asked Questions (FAQ)
 

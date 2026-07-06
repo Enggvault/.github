@@ -8,7 +8,7 @@
     <a href="https://github.com/Enggvault"><img src="https://img.shields.io/github/followers/Enggvault?style=for-the-badge&logo=github&color=blue" alt="Followers" /></a>
     <a href="https://github.com/Enggvault"><img src="https://img.shields.io/github/stars/Enggvault?style=for-the-badge&logo=github&color=yellow" alt="Stars" /></a>
     <a href="https://twitter.com/Enggvault"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://discord.gg/your-invite-code"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://discord.gg/g467F3xBeQ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 </div>
 
@@ -63,7 +63,7 @@ We are polyglots, but we have a soft spot for modern web and systems technologie
 
 Community is at the heart of EnggVault. We'd love for you to join us!
 
-- 💬 **Discord:** [Join our server](https://discord.gg/your-invite-code) to chat with the team and other contributors.
+- 💬 **Discord:** [Join our server](https://discord.gg/g467F3xBeQ) to chat with the team and other contributors.
 - 🐦 **Twitter/X:** Follow us [@Enggvault](https://twitter.com/Enggvault) for updates.
 - 📰 **Blog:** Read our latest thoughts at [blog.enggvault.com](https://blog.enggvault.com).
 

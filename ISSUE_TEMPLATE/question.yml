@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please note: General questions are often better suited for our [GitHub Discussions](https://github.com/Enggvault/project-name/discussions) or our [Discord server](https://discord.gg/your-invite-code). 
+        Please note: General questions are often better suited for our [GitHub Discussions](https://github.com/Enggvault/project-name/discussions) or our [Discord server](https://discord.gg/g467F3xBeQ). 
         However, if you feel an issue is appropriate, please proceed!
   - type: textarea
     id: question
