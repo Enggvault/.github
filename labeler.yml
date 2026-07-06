@@ -1,0 +1,12 @@
+# Add 'docs' label to any changes within the 'docs' folder or README.md
+docs:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file: 'docs/**/*'
+          - any-glob-to-any-file: 'README.md'
+
+# Add 'github' label to any changes within the '.github' folder
+github:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file: '.github/**/*'
