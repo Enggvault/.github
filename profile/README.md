@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=EnggVault+Logo" alt="EnggVault Logo" width="150" height="150" />
+  <img src="https://github.com/Tusharxhub/Enggvault/blob/main/public/icon.webp?raw=true" alt="EnggVault Logo" width="150" height="150" />
   <h1>Welcome to EnggVault</h1>
   <p><em>Building open-source developer tools, educational resources, and community software.</em></p>
 
